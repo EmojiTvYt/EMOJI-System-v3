@@ -1,0 +1,46 @@
+	EMOJI Industries (c)
+____________________________________
+-Produkt: EMOJI System
+
+-Zakazanie jest kopiowanie pomysłu, ponieważ grozi to
+brakiem dostępu do następnych aktualizacji Aplikacji, oraz Dramą
+
+-Modyfikowanie Skryptu jest SUROWO ZABRONIONE
+ponieważ skrypt jest tak ustawiony, aby program się z automatu nie zamykał
+a zabronione jest to tez dlatego, żeby ludzi którzy się nie znają na programowaniu
+nie zniszczyli sobie komputera poprzez zmodyfikowanie skryptu w dziwny sposób,
+a potem uruchomienie go.
+
+-Skrypt był modyfikowany przez właściciela firmy w
+"Microfost Visual Studio Professional 2019"
+Ale program nie jest potrzebny do otworzenia Programu,
+ponieważ, jest on w rozszeżenu BATCH, czyli pliku wsadowym windowsa.
+Lecz jeżeli masz MacOS, lub Linux'a, prosze o nie włączanie plików,
+ponieważ mogą wtedy uszkodzić system; zalecamy poczekać na inne wersje językowe i systemowe.
+systemowe - na inne systemy, np. Linux
+
+-EMOJI Industries(c) to początkująca firma, więc prosimy o nie obrażanie firmy
+za np. słabą jakość produktu np. My City (Gra Firmy EMOJI Industries)
+
+-Prosimy o nie usuwanie plików aplikacji, aby otworzyć aplikację;
+kliknij 2 razy plik "EMOJI System v3.bat"
+
+------------------------------------------------------------------------ 
+Notatka od EMOJI TV YT (Właściciel Firmy):
+-28.06.2021
+Testowałem wersję v2, i byłem ciekaw co się stanie jak w taskkillu wpisze "explorer.exe"...
+posrałem się... pulpit mi zgasł, ponieważ pulpit, to tak naprawdę jest folder, a foldery obsługuje EXPLORER!
+na moje szczęście, okno CMD (EMOJI System), się nie zamkło, wróciłem do menu i wybrałem opcję "11",
+czyli tworzenie nowego zadania; wpisałem "explorer.exe", i pulpit się pojawił.
+
+OSTRZEGAM!
+nie wpisujcie w opcji 12 nazw programów i plików systemowych waszego komputera, bo sobie go zniszczycie!
+nie raze wpisywać np.:
+System.exe (NAWET O TYM NIE MYŚL!)
+cmd.exe (Pogieło?)
+explorer.exe (To... akurat mozesz przywrócić opcją 11, wpisując "explorer.exe")
+
+--------------------------------------------------------------------------
+
+Wersja Produktu:
+v3
